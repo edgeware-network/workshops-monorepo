@@ -1,0 +1,9 @@
+[submodule "pjs_api-template"]
+	path = pjs_api-template
+	url = https://github.com/pranavcpawar/polkadot-js-tutorial
+[submodule "substratekitties"]
+	path = substratekitties
+	url = https://github.com/shawntabrizi/substratekitties.git
+[submodule "pop-cli"]
+	path = pop-cli
+	url = https://github.com/r0gue-io/pop-cli.git
